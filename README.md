@@ -22,4 +22,4 @@ I am passionate about transforming data into meaningful insights to drive better
 🔹 [**Business Insights 360**](https://app.powerbi.com/view?r=eyJrIjoiMGNiNzQ1NDYtM2RiZC00OGI0LWI0OTctMjZkYTVmYjJlNDYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) – Comprehensive analysis of business performance and decision-making insights.  
 🔹 [**Consumer Goods: Ad-Hoc Insights**](https://github.com/udarapuchandu/Executive-Management---Consumer-Goods-) – Delivered insights for executive decision-making in the consumer goods sector.  
 
-📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/chandu-udarapu/) | [Portfolio](https://codebasics.io/portfolio/Chandu-Udarapu)  
+📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/chandu-udarapu/) | [Gmail](mailto:udarapuchandu@gmail.com) | [Portfolio](https://codebasics.io/portfolio/Chandu-Udarapu) 
